@@ -13,7 +13,6 @@ As consultas também têm sido registradas em planilhas, com data e hora de real
 Deseja-se ainda informatizar a receita do médico, de maneira que, no encerramento da consulta, ele possa registrar os medicamentos receitados, a quantidade e as instruções de uso. A partir disso, espera-se que o sistema imprima um relatório da receita ao paciente ou permita sua visualização via internet.
 </p>
 <br>
-<img align='center' src='DiagramaER-pt1.png'/>
 <br>
 <h3>🔹Parte 2 - Diagrama Entidade Relacionamento</h3>
 <p>
@@ -32,7 +31,6 @@ A internação, obviamente, é vinculada a um paciente – que pode se internar 
 Por último, crie um script SQL para a geração do banco de dados
 </p>
 <br>
-<img align='center' src='DiagramaER-pt2.png'/>
 <br>
 <h3>🔹Parte 3 - Alimentando o banco de dados</h3>
 <p> Crie scripts de povoamento das tabelas desenvolvidas na atividade anterior. Observe as seguintes atividades: </p>
